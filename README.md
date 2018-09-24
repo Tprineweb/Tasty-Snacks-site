@@ -26,3 +26,7 @@ connect-db.php delete.php records.php - edit, delete, and add to the database
 view.php view-paginated - create a view for the admin to edit, delete, and add to the database
 
 tastysnacks.sql - holds database data
+
+readme.txt - holds admin login information
+
+site was hosted using my laptop as a wamp server
