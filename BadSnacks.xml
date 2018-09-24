@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<BadSnacks>
+	<Snack>
+		<Name>Tire</Name>
+		<Description>Rubber molded into a circle, used on cars and trucks.</Description>
+	</Snack>
+	<Snack>
+		<Name>Rock</Name>
+		<Description>Hard material found on earth. Breaks Teeth</Description>
+	</Snack>
+	<Snack>
+		<Name>Hand</Name>
+		<Description>That thing on the end of your arm.</Description>
+	</Snack>
+	<Snack>
+		<Name>Poison</Name>
+		<Description>Substance used to kill</Description>
+	</Snack>
+	<Snack>
+		<Name>Shoe</Name>
+		<Description>Object made to protect feet from the elements.</Description>
+	</Snack>
+</BadSnacks>
